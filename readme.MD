@@ -59,3 +59,8 @@ python manage.py runserver
 ```
 
 Now your site will be running in this url: http://localhost:8000/
+
+
+### Deployment in ubuntu server guide
+
+For the deployment of this web-GIS you can check this blog in dev.to [Web-GIS Deployment in Ubuntu server (Nginx + Tomcat + PostGIS)](https://dev.to/iamtekson/deploy-web-gis-in-ubuntu-server-nginx-tomcat-postgis-259j)
