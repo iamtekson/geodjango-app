@@ -51,6 +51,12 @@ python manage.py migrate
 python manage.py collectstatic
 ```
 
+Create the django superuser
+
+```bash
+python manage.py createsuperuser
+```
+
 ##### Run server
 Now you can run the django server using following command,
 
